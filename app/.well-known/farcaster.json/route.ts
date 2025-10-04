@@ -1,6 +1,5 @@
-// app/.well-known/farcaster.json/route.ts
 import { generateManifest } from "@base-org/minikit";
-import miniapp from "../../minikit.config";
+import miniapp from "../../../minikit.config";
 
 export const dynamic = "force-static";
 
